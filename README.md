@@ -1,2 +1,4 @@
 # EngagementScorePrediction
-This is the solution to the Analytics Vidhya competition feb 2022
+## nThis is the solution to the Analytics Vidhya hackathon feb 2022
+
+
