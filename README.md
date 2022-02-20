@@ -7,6 +7,7 @@ Users can like, comment and share the videos on the platform.
 Based on the user’s interaction with the videos, engagement score is assigned to the video  with respect to each user. Engagement score defines how engaging the content of the video  is.  
 Understanding the engagement score of the video improves the user’s interaction with the  platform. It defines the type of content that is appealing to the user and engages the larger  audience. 
 
+### Feature Description
 
 |Variable|Description|
 | -------------- |:-------------:|
@@ -21,4 +22,8 @@ Understanding the engagement score of the video improves the user’s interactio
 |views           |	Total views of the videos present in the particular category|
 |engagement_score|	Engagement score of the video for a user|
 
+
+### Evaluation Metric
+
+r2_score  = 1 - ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BRSS%7D%7BTSS%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
