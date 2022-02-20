@@ -27,3 +27,9 @@ Understanding the engagement score of the video improves the user’s interactio
 
 ![equation](https://bit.ly/3I7mol0)
 
+### Approaches
+
+There are mainly 2 approaches for this problem
+* Regression
+** Hi
+* Collaborative Filtering
