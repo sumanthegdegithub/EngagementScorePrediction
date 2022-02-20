@@ -25,13 +25,13 @@ Understanding the engagement score of the video improves the user’s interactio
 
 ### Evaluation Metric
 
-$-b \pm \sqrt{b^2 - 4ac} \over 2a$
-
 ![equation](https://bit.ly/3I7mol0)
 
 ### Approaches
 
 There are mainly 2 approaches for this problem
-* Regression
-** Hi
-* Collaborative Filtering
+- Regression
+- Collaborative filtering
+
+
+In this problem I have explored both the approaches
