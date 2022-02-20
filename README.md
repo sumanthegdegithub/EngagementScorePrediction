@@ -25,5 +25,5 @@ Understanding the engagement score of the video improves the user’s interactio
 
 ### Evaluation Metric
 
-r2_score  = 1 - ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BRSS%7D%7BTSS%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![equation](https://bit.ly/3p0VRhy)
 
