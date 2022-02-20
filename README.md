@@ -15,7 +15,7 @@ Understanding the engagement score of the video improves the user’s interactio
 
 |Variable|Description|
 | -------------- |:-------------:|
-|row_id          | Unique identifier of the row|
+|row_id | Unique identifier of the row|
 |user_id         | Unique identifier of the user|
 |category_id     |	Category of the video|
 |video_id	Unique | identifier of the video|
