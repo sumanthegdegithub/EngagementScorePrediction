@@ -7,15 +7,10 @@ Users can like, comment and share the videos on the platform.
 Based on the user’s interaction with the videos, engagement score is assigned to the video  with respect to each user. Engagement score defines how engaging the content of the video  is.  
 Understanding the engagement score of the video improves the user’s interaction with the  platform. It defines the type of content that is appealing to the user and engages the larger  audience. 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 |Variable|Description|
 | -------------- |:-------------:|
-|row_id | Unique identifier of the row|
+|row_id          | Unique identifier of the row|
 |user_id         | Unique identifier of the user|
 |category_id     |	Category of the video|
 |video_id	Unique | identifier of the video|
