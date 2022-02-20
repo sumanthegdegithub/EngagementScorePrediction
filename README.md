@@ -25,7 +25,7 @@ Understanding the engagement score of the video improves the user’s interactio
 
 ### Evaluation Metric
 
-$r2_square = 1 - \frac{RSS}{TSS}
+$-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
 ![equation](https://bit.ly/3I7mol0)
 
