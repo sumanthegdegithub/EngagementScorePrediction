@@ -14,15 +14,16 @@ Understanding the engagement score of the video improves the user’s interactio
 | zebra stripes | are neat      |    $1 |
 
 |Variable|Description|
-row_id	Unique identifier of the row
-user_id	Unique identifier of the user
-category_id	Category of the video
-video_id	Unique identifier of the video
-age	Age of the user
-gender	Gender of the user (Male and Female)
-profession	Profession of the user (Student, Working Professional, Other)
-followers	No. of users following a particular category
-views	Total views of the videos present in the particular category
-engagement_score	Engagement score of the video for a user
+| -------------- |:-------------:|
+|row_id          | Unique identifier of the row|
+|user_id         | Unique identifier of the user|
+|category_id     |	Category of the video|
+|video_id	Unique | identifier of the video|
+|age             |	Age of the user|
+|gender          |	Gender of the user (Male and Female)|
+|profession      |	Profession of the user (Student, Working Professional, Other)|
+|followers       |	No. of users following a particular category|
+|views           |	Total views of the videos present in the particular category|
+|engagement_score|	Engagement score of the video for a user|
 
 
